@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "502328475482",
+    "project_id": "budgetaapp-f9121",
+    "storage_bucket": "budgetaapp-f9121.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502328475482:android:c96a643e0beba43049bd63",
+        "android_client_info": {
+          "package_name": "com.TakundaCodesO.budget_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502328475482-qeai9u2mnktfu7dtpntlni1vhegsf0mj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.TakundaCodesO.budget_app",
+            "certificate_hash": "fdd683d7a1c2c269eedff70038e30dfe6644d8c0"
+          }
+        },
+        {
+          "client_id": "502328475482-lluotj8v3r4eauub8mh22prcaaqtdh0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE6vLHjJi3aOWod3l4o_xhtT0-Jtqiafs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502328475482-lluotj8v3r4eauub8mh22prcaaqtdh0m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "502328475482-fk9vnauuc8656hsppjo96r0dio0qs349.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.TakundaCodesO.budgetapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
